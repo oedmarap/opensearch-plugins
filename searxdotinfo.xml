@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>SearX</ShortName>
+  <Description>Anonymous Google Search via SearX (searx.info)</Description>
+  <Url type="text/html" method="get" template="https://searx.info/search?q={searchTerms}"/>
+  <Contact>paramdeo@paramdeo.com</Contact>
+  <Developer>Paramdeo Singh</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://searx.info</moz:SearchForm>
+</OpenSearchDescription>
